@@ -1,0 +1,30 @@
+[{
+  "name": "Amir Ali",
+  "age": 13,
+  "photo": "https://masterpiecer-images.s3.yandex.net/5fb32ef7ee8c66f:upscaled"
+},
+  {
+    "name": "Thor",
+    "age": 30,
+    "photo": "https://klike.net/uploads/posts/2019-02/1551078933_1.jpg"
+  },
+  {
+    "name": "Captain Jack Sparrow",
+    "age": 33,
+    "photo": "https://i.playground.ru/p/S8I1Zw_iiCvHpR7MwM3C9g.jpeg"
+  },
+  {
+    "name": "Joker",
+    "age": 28,
+    "photo": "https://pm1.aminoapps.com/6796/b18cb6d946836c198a3f0d93e10419d2ee4e50e5v2_hq.jpg"
+  },
+  {
+    "name": "Jackie Chan",
+    "age": 50,
+    "photo": "https://news.store.rambler.ru/img/07ba0b4f39c0ed3495ef5865a8147a76?img-format=auto&img-1-resize=height:400,fit:max&img-2-filter=sharpen"
+  },
+  {
+    "name": "The Godfather",
+    "age": 60,
+    "photo": "https://www.m24.ru/b/d/nBkSUhL2glUhkMy_PqzZvc62gYT28pj22yHFh_fH_nKUPXuaDyXTjHou4MVO6BCVoZKf9GqVe5Q_CPawk214LyWK9G1N5ho=LsiVfRrAF-2gLLHy1gywFg.jpg"
+  }]
